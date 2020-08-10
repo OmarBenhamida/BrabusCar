@@ -1,0 +1,205 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    @*<title>Brabus Car</title>
+    @{
+
+        ViewBag.Title = "Brabus Car";
+    }*@
+    <!-- meta-tags -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8" />
+    <!-- tags   SEO -->
+    @*<title>Location Brabus Car</title>*@
+    <meta name="description" content="Brabus Car le leader de location de voiture vous propose un large choix de voiture de différant types 4X4 berline  coupé ... et vous garantie les prix  les plus bas  et vous payer à l'agence et peut vous livré les véhicules où vous voulez sans frais supplémentaires">
+    <meta name="keywords" content="location,agence de location de voitures,location voiture,location voiture maroc,location au voiture,brabus car,rabat,location voiture rabat,location voiture casablanca,location voiture marrakech">
+    <meta name="author" content="Location Brabus Car">
+    <script>
+        addEventListener("load", function () {
+            setTimeout(hideURLbar, 0);
+        }, false);
+
+        function hideURLbar() {
+            window.scrollTo(0, 1);
+        }
+    </script>
+    <!-- //meta-tags -->
+    <link href="~/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="~/css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <!-- font-awesome -->
+    <link href="~/css/font-awesome.css" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/chocolat.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="~/css/flexslider.css" type="text/css" media="screen" property="" />
+    @*/<link rel="stylesheet" href="~/css/srvc/1-col-portfolio.css" type="text/css" media="screen" property="" />*@
+    <!-- Flexslider-CSS -->
+    <!-- //Gallery Css -->
+    <!-- fonts -->
+    <link href="~/css/F1.css" rel="stylesheet">
+    <link href="~/css/F2.css"
+          rel="stylesheet">
+    <link href="~/css/F3.css" rel="stylesheet">
+
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div class="header">
+        <div class="content ">
+            <nav class="navbar ">
+                <div class="container">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="logo" href="~/Home/Index">
+                            <img src="~/Logo/logo1.png" width="170px" height="95px" />
+                        </a>
+                    </div>
+                    <!--/.navbar-header-->
+                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                        <nav class="link-effect-2" id="link-effect-2">
+                            <ul class="nav navbar-nav">
+                                <li class="active">
+                                    <a href="~/Home/Index "class="effect-3"><i class="fa fa-home fa-4x"></i>Accueil</a>
+                                </li>
+                                <li>
+                                    <a href="~/Home/ParcAuto" class="effect-3 "><img src="~/IMG/384e0b3361d99d9c370b4037115324b9-flat-vintage-car-icon-by-vexels.png " width="60" height="60" />Parc-Auto</a>
+                                </li>
+                                <li>
+                                    <a href="~/Home/condition" class="effect-3 "><i class="fa fa-list-alt fa-4x"></i>Conditions</a>
+                                </li>
+                                <li>
+                                    <a href="~/Home/Parc" class="effect-3 "><i class="fa fa-eur fa-4x"></i>Tarifs</a>
+                                </li>
+                                <li>
+                                    <a href="~/Home/service" class="effect-3 "><i class="fa fa-cog fa-4x"></i>Services</a>
+                                </li>
+
+                                <li>
+                                    <a href="~/Home/contact" class="effect-3 "><i class="fa fa-envelope-o fa-4x"></i>Nous Contacter</a>
+                                </li>
+                            </ul>
+                        </nav>
+                    </div>
+                    <!--/.navbar-collapse-->
+                    <!--/.navbar-->
+                </div>
+            </nav>
+        </div>
+    </div>
+
+
+
+    <div class="@*container*@ @*body-content*@">
+        @RenderBody()
+        <hr />
+    </div>
+    <footer>
+        <div class="w3ls-footer-grids">
+            <div class="container">
+                <div class="col-md-3 w3l-footer one">
+                    <h2>Brabus Car</h2>
+                    <p>
+                        Située en plein centre de Rabat à l'avenue Fal ould oumeir, la société Brabus Car s'est enrichie d'une longue expérience dans le domaine de location de voitures pour vous offrir aujourd'hui de nombreux services et un grand choix de catégories de voitures. Nous mettons à la disposition de nos clients une large gamme de véhicules, des citadines aux familiales en passant par les berlines où les SUV 4x4 ou voiture de luxe et prestige
+                    </p>
+                    <div class="clearfix"></div>
+                </div>
+                <div class="col-md-3 w3l-footer two">
+                    <h3>Contactez nous via :</h3>
+                    <ul>
+                        <li>
+                            <a class="fb" href="#">
+                                <i class="fa fa-facebook"></i>Like us on Facebook
+                            </a>
+                        </li>
+                        <li>
+                            <a class="fb1" href="#">
+                                <i class="fa fa-twitter"></i>Follow us on Twitter
+                            </a>
+                        </li>
+                        <li>
+                            <a class="fb2" href="#">
+                                <i class="fa fa-google-plus"></i>Add us on Google Plus
+                            </a>
+                        </li>
+                        <li>
+                            <a class="fb3" href="#">
+                                <i class="fa fa-dribbble"></i>Follow us on Dribbble
+                            </a>
+                        </li>
+                        <li>
+                            <a class="fb4" href="#">
+                                <i class="fa fa-pinterest-p"></i>Follow us on Pinterest
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-md-3 w3l-footer three">
+                    <h3>Address</h3>
+                    <ul>
+                        <li>
+                            <i class="fa fa-map-marker"></i>
+                            <p>
+                                BrabusCar
+                                <span>17 Rue dayet Roumi,Imm B,</span>Rabat,Agdal.
+                            </p>
+                            <div class="clearfix"></div>
+                        </li>
+                        <li>
+                            <i class="fa fa-phone"></i>
+                            <p>+212 537 680 908</p>
+                            <div class="clearfix"></div>
+                        </li>
+                        <li>
+                            <i class="fa fa-phone"></i>
+                            <p>+212 661 339 422</p>
+                            <div class="clearfix"></div>
+                        </li>
+                        <li>
+                            <i class="fa fa-envelope-o"></i>
+                            <a href="mailto:Brabuscar@gmail.com">Brabuscar@gmail.com</a>
+                            <div class="clearfix"></div>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-md-3 w3l-footer agileinfo_footer_grid">
+                    <h3>Site Map</h3>
+                    <div class="nav-w3-l">
+                        <ul>
+                            <li>
+                                <a href="~/Home/Index">Accueil</a>
+                            </li>
+                            <li>
+                                <a href="~/Home/parcAuto" >le Parc Auto</a>
+                            </li>
+                            <li>
+                                <a href="~/Home/parc" >Tarifs</a>
+                            </li>
+                            <li>
+                                <a href="~/Home/condition" >conditions</a>
+                            </li>
+                            <li>
+                                <a href="~/Home/service" >Services</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+        <div class="copy-right-grids">
+            <p class="footer-gd">
+                © 2018 In Home. All Rights Reserved | Design by
+                <a href="" target="_blank">Brabus Car</a>
+            </p>
+        </div>
+    </footer>
+
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,121 @@
+﻿@{
+    ViewBag.Title = "Contact";
+}
+<div class="address" id="contact">
+    <div class="container">
+        <h3 class="title">Contactez Nous</h3>
+        <div class="address-row">
+            <div class="col-md-6 col-xs-6 address-right">
+                <div class="address-info wow fadeInRight animated" data-wow-delay=".5s">
+                    <h4>Coordonnées</h4>
+                    <p> <b>Adresse :</b>  17 Rue dayet Roumi,Imm B,Agdal-Rabat.</p> <br />
+                    <p> <b>Tel :</b> &nbsp; +212 661 339 422  / +212 537 680 908</p> <br />
+                    <p>
+                        <b>Mail :</b>  <a href="mailto:Brabuscar@gmail.com"> Brabuscar@gmail.com</a>
+                    </p>
+                </div>
+         
+                <div class="address-info address-mdl wow fadeInRight animated" data-wow-delay=".20s">
+                    <h4>Localisation </h4>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3307.4314729963326!2d-6.851469485354158!3d34.00713402755441!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda76c89df29cf69%3A0x6b4393c3dd994b97!2s17+Rue+Dayet+Erroumi%2C+Rabat!5e0!3m2!1sfr!2sma!4v1532622990756" width="486" height="290" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+                </div>
+            </div>
+            <div class="col-md-6 col-xs-6 address-left wow agile fadeInLeft animated" data-wow-delay=".5s">
+                <div class="address-grid">
+                    <h4 class="wow fadeIndown animated" data-wow-delay=".5s">Informations</h4>
+                    <form id="userForme" method="post">
+                        <div class="form-group row">
+                            <label for="inputPassword" class="col-md-6 col-form-label">Nom et Prénom : </label>
+                            <div class="col-md-6">
+                                <input type="text" name="nom" class="form-control" placeholder="Ex : Benjeje Omar " required />
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label for="inputPassword" class="col-md-6 col-form-label">Email : </label>
+                            <div class="col-md-6">
+                                <input type="email" name="email" class="form-control" placeholder="Ex : geny@gmail.com " required />
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label for="inputPassword" class="col-md-6 col-form-label">Tél : </label>
+                            <div class="col-md-6">
+                                <input type="text" name="tel" class="form-control" placeholder="Ex : 0617748596 " required />
+                            </div>
+                        </div>
+
+
+                        <div class="form-group row">
+                            <label for="inputPassword" class="col-md-6 col-form-label">Message :</label>
+                            <div class="col-md-6">
+                                <textarea class="form-control" name="msge">
+</textarea>
+                            </div>
+                        </div>
+
+
+
+
+
+
+
+                        <div class="form-group row">
+
+                            <div class="col-md-12">
+                                <center>
+                                    <div class="form-group ">
+                                        <input type="submit" class="btn btn-secondary" name="submit1" value="Envoyer">
+                                    </div>
+                                </center>
+                                <div class="form-group row">
+
+                                    <div class="col-md-12">
+                                        <h6><b> PS : Votre message sera reçu et  vous receverez une réponse par email où via votre télephone</b> </h6>
+                                        <br />
+                                        <h6><b>Merci d'avoir choisie Brabus Car A trés bientot</b> </h6>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+@section Scripts
+{
+    <script>
+              var form = $('#userForme');
+    var url = '@Url.Action( "Index", "Msg", null)';
+
+    var successCallback = function (response) {
+        alert(response);
+    }
+
+    var getoption = {
+        method: 'POST',
+        async: true,
+        cache: false,
+        sucsses: successCallback,
+        error: e => console.log(e.responseText)
+    };
+    form.on('submit', function (e) {
+
+        e.preventDefault();
+        getoption.data = $(this).serialize();
+        console.log('<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<');
+        $.ajax(url, getoption);
+        alert('Votre Message a bien été Envoyé');
+    }
+
+
+
+
+    );
+
+    </script>
+}

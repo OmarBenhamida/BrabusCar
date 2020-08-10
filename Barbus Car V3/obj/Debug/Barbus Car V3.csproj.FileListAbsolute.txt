@@ -1,0 +1,294 @@
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\ApplicationInsights.config
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\Barbus Car V3.dll.config
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\Barbus Car V3.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\Barbus Car V3.pdb
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\csc.exe
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\csc.exe.config
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\csc.rsp
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\csi.exe
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\csi.exe.config
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\csi.rsp
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\System.AppContext.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Console.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\System.IO.Compression.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\System.IO.Pipes.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Security.Claims.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\System.ValueTuple.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Xml.XPath.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\vbc.exe
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\vbc.exe.config
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\vbc.rsp
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\VBCSCompiler.exe
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\Antlr3.Runtime.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\Microsoft.AI.Web.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\Microsoft.ApplicationInsights.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\Newtonsoft.Json.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\System.Web.Helpers.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\System.Web.Mvc.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\System.Web.Optimization.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\System.Web.Razor.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\System.Web.WebPages.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\System.Web.WebPages.Razor.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\WebGrease.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\System.Web.Helpers.xml
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\System.Web.Mvc.xml
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\System.Web.Optimization.xml
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\System.Web.Razor.xml
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\System.Web.WebPages.xml
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\System.Web.WebPages.Razor.xml
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\Newtonsoft.Json.xml
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\Antlr3.Runtime.pdb
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\Microsoft.AI.Web.xml
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\fr\System.Web.Razor.resources.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\obj\Debug\Barbus Car V3.csproj.CoreCompileInputs.cache
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\obj\Debug\Barbus Car V3.csproj.CopyComplete
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\obj\Debug\Barbus Car V3.dll
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\obj\Debug\Barbus Car V3.pdb
+C:\Users\OMAR\source\repos\Barbus Car V3\Barbus Car V3\obj\Debug\Barbus Car V3.csprojAssemblyReference.cache
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\ApplicationInsights.config
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\Barbus Car V3.dll.config
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\Barbus Car V3.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\Barbus Car V3.pdb
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\csc.exe
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\csc.exe.config
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\csc.rsp
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\csi.exe
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\csi.exe.config
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\csi.rsp
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\Microsoft.Managed.Core.targets
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\System.AppContext.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Collections.Immutable.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Console.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\System.IO.Compression.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\System.IO.FileSystem.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\System.IO.Pipes.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Reflection.Metadata.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Security.AccessControl.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Security.Claims.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Security.Principal.Windows.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\System.ValueTuple.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Xml.XmlDocument.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Xml.XPath.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\vbc.exe
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\vbc.exe.config
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\vbc.rsp
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\VBCSCompiler.exe
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\roslyn\VBCSCompiler.exe.config
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\Antlr3.Runtime.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\Microsoft.AI.Agent.Intercept.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\Microsoft.AI.DependencyCollector.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\Microsoft.AI.Web.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\Microsoft.AI.WindowsServer.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\Microsoft.ApplicationInsights.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\Microsoft.Web.Infrastructure.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\Newtonsoft.Json.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\System.Diagnostics.DiagnosticSource.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\System.Web.Helpers.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\System.Web.Mvc.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\System.Web.Optimization.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\System.Web.Razor.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\System.Web.WebPages.Deployment.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\System.Web.WebPages.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\System.Web.WebPages.Razor.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\WebGrease.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\System.Web.Helpers.xml
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\System.Web.Mvc.xml
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\System.Web.Optimization.xml
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\System.Web.Razor.xml
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\System.Web.WebPages.xml
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\System.Web.WebPages.Deployment.xml
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\System.Web.WebPages.Razor.xml
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\Newtonsoft.Json.xml
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\Antlr3.Runtime.pdb
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\System.Diagnostics.DiagnosticSource.xml
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\Microsoft.AI.DependencyCollector.xml
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\Microsoft.AI.WindowsServer.xml
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\Microsoft.AI.Web.xml
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\fr\System.Web.Helpers.resources.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\fr\System.Web.Mvc.resources.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\fr\System.Web.Optimization.resources.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\fr\System.Web.Razor.resources.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\fr\System.Web.WebPages.resources.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\fr\System.Web.WebPages.Deployment.resources.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\bin\fr\System.Web.WebPages.Razor.resources.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\obj\Debug\Barbus Car V3.csprojAssemblyReference.cache
+H:\Source Projet\Barbus Car V3\Barbus Car V3\obj\Debug\Barbus Car V3.csproj.CoreCompileInputs.cache
+H:\Source Projet\Barbus Car V3\Barbus Car V3\obj\Debug\Barbus Car V3.csproj.CopyComplete
+H:\Source Projet\Barbus Car V3\Barbus Car V3\obj\Debug\Barbus Car V3.dll
+H:\Source Projet\Barbus Car V3\Barbus Car V3\obj\Debug\Barbus Car V3.pdb
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\ApplicationInsights.config
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\Barbus Car V3.dll.config
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\Barbus Car V3.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\Barbus Car V3.pdb
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\csc.exe
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\csc.exe.config
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\csc.rsp
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\csi.exe
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\csi.exe.config
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\csi.rsp
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\System.AppContext.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Collections.Immutable.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Console.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\System.IO.Compression.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\System.IO.FileSystem.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\System.IO.Pipes.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Security.AccessControl.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Security.Claims.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\System.ValueTuple.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Xml.XPath.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\vbc.exe
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\vbc.exe.config
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\vbc.rsp
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\VBCSCompiler.exe
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\roslyn\VBCSCompiler.exe.config
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\Antlr3.Runtime.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\Microsoft.AI.Web.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\Microsoft.AI.WindowsServer.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\Microsoft.ApplicationInsights.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\Microsoft.Web.Infrastructure.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\Newtonsoft.Json.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\System.Web.Helpers.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\System.Web.Mvc.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\System.Web.Optimization.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\System.Web.Razor.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\System.Web.WebPages.Deployment.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\System.Web.WebPages.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\System.Web.WebPages.Razor.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\WebGrease.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\System.Web.Helpers.xml
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\System.Web.Mvc.xml
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\System.Web.Optimization.xml
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\System.Web.Razor.xml
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\System.Web.WebPages.xml
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\System.Web.WebPages.Deployment.xml
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\System.Web.WebPages.Razor.xml
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\Newtonsoft.Json.xml
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\Antlr3.Runtime.pdb
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\Microsoft.AI.WindowsServer.xml
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\Microsoft.AI.Web.xml
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\fr\System.Web.Helpers.resources.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\fr\System.Web.Mvc.resources.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\fr\System.Web.Optimization.resources.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\fr\System.Web.Razor.resources.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\fr\System.Web.WebPages.resources.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\fr\System.Web.WebPages.Deployment.resources.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\bin\fr\System.Web.WebPages.Razor.resources.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\obj\Debug\Barbus Car V3.csprojAssemblyReference.cache
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\obj\Debug\Barbus Car V3.csproj.CoreCompileInputs.cache
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\obj\Debug\Barbus Car V3.csproj.CopyComplete
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\obj\Debug\Barbus Car V3.dll
+D:\Projet Développement\Projet professionnel\Barbus Car V3\Barbus Car V3\obj\Debug\Barbus Car V3.pdb
